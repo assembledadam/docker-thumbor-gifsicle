@@ -1,4 +1,4 @@
-FROM apsl/thumbor-multiprocess:latest
+FROM candybanana/thumbor-multiprocess:latest
 MAINTAINER Adam McCann <adam@candybanana.com>
 
 # Install gifsicle
